@@ -8,4 +8,5 @@ This repo contains my daily solved LeetCode questions.
 |----|---------|-------|------|
 | 1  | Arrays  | Two Sum | [Link](https://leetcode.com/problems/two-sum/) |
 | 2  | Arrays  | contains-duplicate| [Link](https://leetcode.com/problems/contains-duplicate/description/)|
-| 2  | Arrays  | Best Time to Buy and Sell Stock| [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|
+| 3  | Arrays  | Best Time to Buy and Sell Stock| [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|
+| 4  | Arrays  | maximum-difference-between-increasing-elements| [Link](https://leetcode.com/problems/maximum-difference-between-increasing-elements/description/)|
